@@ -1,0 +1,7 @@
+p3d_rgb_199.checkpoint.pth.tar
+_rgb_model_best.pth.tar
+ssn_activitynet1.2_BNInception_rgb_epoch-7_checkpoint.pth.tar
+result.bin
+/anet_toolkit
+/data
+/model_zoo
